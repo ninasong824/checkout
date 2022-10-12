@@ -11,8 +11,6 @@ public class Checkout {
 
     private Scanner scanner  = new Scanner(System.in);
 
-    //private ItemCounter itemCounter = new ItemCounter();
-
     private int ipadCounter = 0;
     private int macbookCounter = 0;
     private int appleTVCounter = 0;
